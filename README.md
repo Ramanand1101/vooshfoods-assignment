@@ -186,7 +186,7 @@ Here is the updated documentation that includes the routes you provided:
 
 ---
 
-## Artist API Documentation
+## Artist API 
 
 ### Overview
 
@@ -347,7 +347,7 @@ Here is the updated version of your documentation with the album-related routes 
 
 ---
 
-## Album API Documentation
+## Album API 
 
 ### Overview
 
@@ -517,7 +517,7 @@ Here is the full API documentation for your `trackRouter` with the requested upd
 
 ---
 
-## API Documentation for Track Routes
+## Track API 
 
 ### Base URL
 ```
@@ -765,7 +765,7 @@ Here's the documentation for the `favoriteRouter` with all necessary details for
 
 ---
 
-### **Favorites Routes Documentation**
+### **Favorites API**
 
 This set of routes handles managing user favorites, including retrieving, adding, and removing favorite items.
 
@@ -968,6 +968,5 @@ Authorization: Bearer <your-token>
 
 ---
 
-This API allows users to manage their favorites for different categories, ensuring a smooth user experience while interacting with favorite items.
 
 This documentation is now aligned with the functionality in your code, providing an overview, prerequisites, and details of each API endpoint. Let me know if you need any additional modifications!
